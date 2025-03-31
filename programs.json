@@ -1,0 +1,46 @@
+{
+    "list": {
+        "command": "ls -la",
+        "foreground": true
+    },
+    "calculator": {
+        "command": "gnome-calculator",
+        "foreground": false
+    },
+    "paint": {
+        "command": "pinta",
+        "foreground": false
+    },
+    "terminal": {
+        "command": "gnome-terminal",
+        "foreground": false
+    },
+    "python": {
+        "command": "python3",
+        "foreground": true
+    },
+    "git": {
+        "command": "git --version",
+        "foreground": true
+    },
+    "vscode": {
+        "command": "code",
+        "foreground": false
+    },
+    "chrome": {
+        "command": "google-chrome",
+        "foreground": false
+    },
+    "firefox": {
+        "command": "firefox",
+        "foreground": false
+    },
+    "filemanager": {
+        "command": "nautilus",
+        "foreground": false
+    },
+    "htop": {
+        "command": "htop",
+        "foreground": true
+    }
+}
