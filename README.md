@@ -43,10 +43,6 @@ cd cli_desktop_proto
 
 chmod +x install.sh
 
-# Install with dependency management
 ./install.sh
-
-# Force reinstall dependencies (add to script options)
-./install.sh --force-deps
 
 tmux
