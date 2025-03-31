@@ -23,6 +23,8 @@ get desktop env like feel in command line interface
 - Custom key bindings:
   - F1: Terminal popup
   - Intuitive pane navigation and resizing
+- you can read more shorcuts in `SHORTCUTS.md` file
+  
 
 
 ## Technologies Used
