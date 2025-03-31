@@ -38,8 +38,15 @@ get desktop env like feel in command line interface
 1. Clone the repository:
 ```bash
 git clone https://github.com/dip-bash/cli_desktop_proto.git
+
 cd cli_desktop_proto
+
 chmod +x install.sh
+
+# Install with dependency management
 ./install.sh
+
+# Force reinstall dependencies (add to script options)
+./install.sh --force-deps
 
 tmux
