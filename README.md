@@ -6,11 +6,22 @@ get desktop env like feel in command line interface
 `cli-desk-env` is a command-line interface (CLI) tool designed to emulate a desktop environment within a terminal using `tmux`. It provides an interactive launcher, a customizable panel, and seamless integration with `tmux` to manage programs, windows, and panes efficiently. Whether you're a power user who loves the terminal or someone transitioning from a graphical desktop, this project brings a familiar desktop-like feel to the CLI.
 
 ---
-![image alt](https://github.com/dip-bash/img/blob/0d6b7d5263abc5cb9fb3a624d336e8e9081923f3/cli-desk-env/Screenshot%20from%202025-04-01%2017-26-48.png)
 
-<img src="https://github.com/dip-bash/img/blob/0d6b7d5263abc5cb9fb3a624d336e8e9081923f3/cli-desk-env/Screenshot%20from%202025-04-01%2017-26-48.png" alt="Image 1 Description" style="width: 49%; margin-right: 1%; display: inline-block;">
-<img src="https://github.com/dip-bash/img/blob/0d6b7d5263abc5cb9fb3a624d336e8e9081923f3/cli-desk-env/Screenshot%20from%202025-04-01%2017-28-14.png" alt="Image 2 Description" style="width: 49%; display: inline-block;">
+## Screenshot
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="width: 50%; padding: 0; border: none;">
+      <img src="https://github.com/dip-bash/img/raw/0d6b7d5263abc5cb9fb3a624d336e8e9081923f3/cli-desk-env/Screenshot%20from%202025-04-01%2017-26-48.png" alt="Screenshot 1" style="max-width: 100%; display: block;">
+    </td>
+    <td style="width: 50%; padding: 0; border: none;">
+      <img src="https://github.com/dip-bash/img/raw/0d6b7d5263abc5cb9fb3a624d336e8e9081923f3/cli-desk-env/Screenshot%20from%202025-04-01%2017-28-14.png" alt="Screenshot 2" style="max-width: 100%; display: block;">
+    </td>
+  </tr>
+</table>
+
 ---
+
 ## Features
 
 ### Tmux Configuration
