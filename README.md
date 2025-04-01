@@ -30,19 +30,29 @@ get desktop env like feel in command line interface
 ## Technologies Used
 - Tmux (Terminal Multiplexer)
 - Python 3
-- Bash (installation script)
-- Linux GNOME environment
+- Bash
+- Linux GNOME environment (optional)
 
 ## Installation
 
-1. Clone the repository:
+1. Install
 ```bash
 git clone https://github.com/dip-bash/cli_desktop_proto.git
-
+```
+```
 cd cli_desktop_proto
-
+```
+```
 chmod +x install.sh
-
+```
+```
 ./install.sh
-
+```
+```
 tmux
+```
+2. Uninstall
+```bash
+chmod +x uninstall.sh
+
+./uninstall.sh
