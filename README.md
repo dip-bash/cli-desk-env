@@ -7,6 +7,9 @@ get desktop env like feel in command line interface
 
 ---
 ![image alt](https://github.com/dip-bash/img/blob/0d6b7d5263abc5cb9fb3a624d336e8e9081923f3/cli-desk-env/Screenshot%20from%202025-04-01%2017-26-48.png)
+
+<img src="https://github.com/dip-bash/img/blob/0d6b7d5263abc5cb9fb3a624d336e8e9081923f3/cli-desk-env/Screenshot%20from%202025-04-01%2017-26-48.png" alt="Image 1 Description" style="width: 49%; margin-right: 1%; display: inline-block;">
+<img src="https://github.com/dip-bash/img/blob/0d6b7d5263abc5cb9fb3a624d336e8e9081923f3/cli-desk-env/Screenshot%20from%202025-04-01%2017-28-14.png" alt="Image 2 Description" style="width: 49%; display: inline-block;">
 ---
 ## Features
 
