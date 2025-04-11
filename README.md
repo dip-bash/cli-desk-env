@@ -53,10 +53,10 @@ get desktop env like feel in command line interface
 
 1. Install
 ```bash
-git clone https://github.com/dip-bash/cli_desktop_proto.git
+git clone https://github.com/dip-bash/cli-desk-env
 ```
 ```
-cd cli_desktop_proto
+cd cli-desk-env
 ```
 ```
 chmod +x install.sh
