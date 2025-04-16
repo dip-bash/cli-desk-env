@@ -65,7 +65,7 @@ chmod +x install.sh
 ./install.sh
 ```
 ```
-tmux
+tmux -u
 ```
 2. Uninstall
 ```bash
